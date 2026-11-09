@@ -1,0 +1,13 @@
+{
+  "target_username": "weiastraia",
+  "competition": "connectx",
+  "submission_scan_complete": true,
+  "listed_submissions": 1,
+  "failed_submission_queries": 0,
+  "unique_episode_ids": 168,
+  "new_json_files": 168,
+  "existing_json_files": 0,
+  "failed_downloads": 0,
+  "replay_directory": "C:\\Users\\weize\\Downloads\\connectx_weiastraia_replays\\replays",
+  "note": "Only episodes returned by Kaggle for this authenticated account or known screenshot IDs are included."
+}
