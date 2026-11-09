@@ -1,0 +1,1 @@
+vs perfect_eps: {'win': 93, 'loss': 3, 'draw': 4, 'error': 0}  as P1 [W,D,L]=[50, 0, 0] as P2 [W,D,L]=[43, 4, 3]  moves=1307 mean=0.6ms p99=8.5ms max=11.4ms

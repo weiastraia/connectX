@@ -1,0 +1,2 @@
+stage vs mix:0.3:10: W/D/L=[361, 13, 26] as P1=[200, 0, 0] as P2=[161, 13, 26] avg_len=36.3 moves=7347 mean=0.06ms max=24.8ms
+old_agent vs mix:0.3:10: W/D/L=[367, 11, 22] as P1=[200, 0, 0] as P2=[167, 11, 22] avg_len=36.3 moves=7355 mean=0.03ms max=5.0ms

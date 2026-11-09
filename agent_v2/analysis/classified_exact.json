@@ -1,0 +1,2830 @@
+[
+{
+"id": 126141278,
+"side": 1,
+"opp": "weiastraia",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126141478,
+"side": 1,
+"opp": "Jason Matthew Suhari",
+"moves": "4664446644323362122236335257555",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+7,
+2,
+-2,
+-3
+],
+[
+21,
+2,
+-3,
+-5
+],
+[
+23,
+2,
+-5,
+-6
+]
+],
+"start_v1": 1
+},
+{
+"id": 126141779,
+"side": 2,
+"opp": "Vi Nguy\u1ec5n V\u0103n",
+"moves": "74747764432332323342242676666755",
+"result": "W",
+"my_errors": [],
+"opp_errors": [
+[
+0,
+1,
+1,
+-1
+]
+],
+"my_inacc": [],
+"opp_inacc": [
+[
+2,
+1,
+-2,
+-5
+],
+[
+6,
+1,
+-5,
+-6
+]
+],
+"start_v1": 1
+},
+{
+"id": 126142130,
+"side": 1,
+"opp": "liuyuxi90",
+"moves": "43667555355331573166446111222",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+7,
+2,
+-2,
+-3
+],
+[
+11,
+2,
+-3,
+-4
+],
+[
+17,
+2,
+-4,
+-6
+],
+[
+23,
+2,
+-6,
+-7
+]
+],
+"start_v1": 1
+},
+{
+"id": 126142479,
+"side": 2,
+"opp": "Vi Nguy\u1ec5n V\u0103n",
+"moves": "44443555526672456743333352262266777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [
+[
+4,
+1,
+1,
+-1
+]
+],
+"my_inacc": [],
+"opp_inacc": [
+[
+10,
+1,
+-2,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126142834,
+"side": 2,
+"opp": "dajun666",
+"moves": "44443555522744322225333375711111177766",
+"result": "W",
+"my_errors": [],
+"opp_errors": [
+[
+4,
+1,
+1,
+-1
+]
+],
+"my_inacc": [],
+"opp_inacc": [
+[
+10,
+1,
+-2,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126143193,
+"side": 2,
+"opp": "Vasile B.",
+"moves": "44444432655555367233322623526661717717711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126143526,
+"side": 1,
+"opp": "DancingLumberjack",
+"moves": "44444432655553757577222221111117733",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+13,
+2,
+-1,
+-2
+],
+[
+17,
+2,
+-2,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126143826,
+"side": 2,
+"opp": "Emanuele Miranda",
+"moves": "444444322222655556762333366535611111177777",
+"result": "D",
+"my_errors": [],
+"opp_errors": [
+[
+8,
+1,
+1,
+0
+]
+],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126144130,
+"side": 1,
+"opp": "Emanuele Miranda",
+"moves": "4364447555354552423333622226666177711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+11,
+2,
+-2,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126144402,
+"side": 1,
+"opp": "Vasile B.",
+"moves": "44444333346711332226111666617777755",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+9,
+2,
+-1,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126144631,
+"side": 1,
+"opp": "forres.zhaoc",
+"moves": "44444222245655223677665577763561117111333",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126144851,
+"side": 2,
+"opp": "Maur\u00edcio Pena",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126145106,
+"side": 1,
+"opp": "Pranjal Singh",
+"moves": "4444466432336662122332365527111117755",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+7,
+2,
+-1,
+-2
+],
+[
+13,
+2,
+-2,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126145319,
+"side": 1,
+"opp": "Peter John",
+"moves": "44444225224235552557177717766661113",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+7,
+2,
+-1,
+-3
+],
+[
+13,
+2,
+-3,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126145552,
+"side": 2,
+"opp": "Tama Mican",
+"moves": "44444456233333521655566222635261711117777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126145820,
+"side": 2,
+"opp": "Emanuele Miranda",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126146042,
+"side": 1,
+"opp": "yihui ding123",
+"moves": "444447533335575255312247732226666667711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+13,
+2,
+-1,
+-2
+]
+],
+"start_v1": 1
+},
+{
+"id": 126146288,
+"side": 1,
+"opp": "Oriachel",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126146574,
+"side": 2,
+"opp": "Tama Mican",
+"moves": "44444456233333521655566263156122211177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126146769,
+"side": 1,
+"opp": "Ertu\u011frul \u00d6zer",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126147040,
+"side": 2,
+"opp": "Vasile B.",
+"moves": "44444432655555367233322623752766617117711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126147271,
+"side": 2,
+"opp": "Maziyar Abyari",
+"moves": "44444456233333521655566263562221111177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126147533,
+"side": 2,
+"opp": "DJ Carl Joseph Lee",
+"moves": "44444432655555367233322623662561717717711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126147752,
+"side": 2,
+"opp": "T.1000",
+"moves": "44444456233333521655566263651122211177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126147759,
+"side": 2,
+"opp": "matt",
+"moves": "44444456233333521655566222635261117117777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126147988,
+"side": 1,
+"opp": "T.1000",
+"moves": "44444666622226255546313111333",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+17,
+2,
+-1,
+-3
+],
+[
+23,
+2,
+-3,
+-7
+]
+],
+"start_v1": 1
+},
+{
+"id": 126148197,
+"side": 2,
+"opp": "Maziyar Abyari",
+"moves": "44444456233333521655566263756122217111777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126148422,
+"side": 2,
+"opp": "Maur\u00edcio Pena",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126148642,
+"side": 1,
+"opp": "Tama Mican",
+"moves": "4444443265555536723336276612111",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+21,
+2,
+-1,
+-6
+]
+],
+"start_v1": 1
+},
+{
+"id": 126148856,
+"side": 1,
+"opp": "Cisco Caceres",
+"moves": "44444432655555323332267623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126149081,
+"side": 1,
+"opp": "Peter Cnudde",
+"moves": "45264451454161114266655277717",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+3,
+2,
+-2,
+-4
+],
+[
+21,
+2,
+-4,
+-7
+]
+],
+"start_v1": 1
+},
+{
+"id": 126149296,
+"side": 1,
+"opp": "Tama Mican",
+"moves": "436375665453314",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+9,
+2,
+-2,
+-3
+],
+[
+11,
+2,
+-3,
+-14
+]
+],
+"start_v1": 1
+},
+{
+"id": 126149470,
+"side": 2,
+"opp": "matt",
+"moves": "44444456233333521655566222635261117117777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126149698,
+"side": 2,
+"opp": "Judbutnotspud",
+"moves": "44444456233333521655566263567111117777722",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126149909,
+"side": 2,
+"opp": "yihui ding123",
+"moves": "44444456233333521655566211226325611177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126150135,
+"side": 2,
+"opp": "hydroshiba",
+"moves": "44444432655555367233322623521117777711166",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126150339,
+"side": 2,
+"opp": "Maziyar Abyari",
+"moves": "44444456233333521655566263562221111177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126150565,
+"side": 2,
+"opp": "T.1000",
+"moves": "44444456233333521655566263651122211177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126150789,
+"side": 2,
+"opp": "Vsevolod Gerasimov",
+"moves": "44444432655555367233322666235216717771711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126150994,
+"side": 1,
+"opp": "[Deleted] 4cdea91c-21bf-49e8-acf4-be9a5c1e4408",
+"moves": "44434433757237565655666",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+3,
+2,
+-1,
+-3
+],
+[
+5,
+2,
+-3,
+-7
+],
+[
+13,
+2,
+-7,
+-10
+]
+],
+"start_v1": 1
+},
+{
+"id": 126151215,
+"side": 2,
+"opp": "[Deleted] 4cdea91c-21bf-49e8-acf4-be9a5c1e4408",
+"moves": "44444432655555367233322623152117777766611",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126151417,
+"side": 1,
+"opp": "forres.zhaoc",
+"moves": "44444666622224326233565133555351171117777",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126151637,
+"side": 2,
+"opp": "DancingLumberjack",
+"moves": "44444432655555367233322623526661717717711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126151904,
+"side": 2,
+"opp": "recdnd",
+"moves": "44444432655555626663337777775222263311",
+"result": "W",
+"my_errors": [],
+"opp_errors": [
+[
+14,
+1,
+1,
+-1
+]
+],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126151931,
+"side": 2,
+"opp": "Evelyn",
+"moves": "444444322222655556762355111111666777773333",
+"result": "D",
+"my_errors": [],
+"opp_errors": [
+[
+8,
+1,
+1,
+0
+]
+],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126152109,
+"side": 1,
+"opp": "recdnd",
+"moves": "444444326555537233335727775722211111166",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+13,
+2,
+-1,
+-2
+]
+],
+"start_v1": 1
+},
+{
+"id": 126152326,
+"side": 2,
+"opp": "T.1000",
+"moves": "44444456233333521655566263651122211177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126152560,
+"side": 2,
+"opp": "Cisco Caceres",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126152754,
+"side": 2,
+"opp": "T.1000",
+"moves": "44444432655555367233322666235261117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126152974,
+"side": 2,
+"opp": "Maziyar Abyari",
+"moves": "44444456233333521655566263562221111177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126153224,
+"side": 1,
+"opp": "MarPez",
+"moves": "444442222456552672566565336717711111333",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+17,
+2,
+-1,
+-2
+]
+],
+"start_v1": 1
+},
+{
+"id": 126153422,
+"side": 1,
+"opp": "Peter Cnudde",
+"moves": "45264451454161114266662122255577733",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+3,
+2,
+-2,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126153618,
+"side": 1,
+"opp": "Yitzchak Shmalo",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126153866,
+"side": 1,
+"opp": "Peko",
+"moves": "4444466366456677337773233211117222255",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+7,
+2,
+-1,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126154062,
+"side": 1,
+"opp": "Maziyar Abyari",
+"moves": "44444666643233621222332136515111555577777",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126154333,
+"side": 1,
+"opp": "Thomas Le Gall",
+"moves": "4525132122554444745522777771331",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+7,
+2,
+-2,
+-3
+],
+[
+15,
+2,
+-3,
+-6
+]
+],
+"start_v1": 1
+},
+{
+"id": 126154559,
+"side": 1,
+"opp": "Vasile B.",
+"moves": "44444333316712222632417367775555525171166",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126156722,
+"side": 1,
+"opp": "Maziyar Abyari",
+"moves": "44444666643233665211223311115232555577777",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126159047,
+"side": 1,
+"opp": "Oriachel",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126161914,
+"side": 2,
+"opp": "T.1000",
+"moves": "44444456233333521655566263651122211177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126164949,
+"side": 2,
+"opp": "liuyuxi90",
+"moves": "4444446566223133",
+"result": "W",
+"my_errors": [],
+"opp_errors": [
+[
+6,
+1,
+1,
+0
+],
+[
+10,
+1,
+0,
+-1
+]
+],
+"my_inacc": [],
+"opp_inacc": [
+[
+12,
+1,
+-4,
+-13
+],
+[
+14,
+1,
+-13,
+-14
+]
+],
+"start_v1": 1
+},
+{
+"id": 126168570,
+"side": 2,
+"opp": "Graydon",
+"moves": "44444456233333521655566211226352617117777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126169754,
+"side": 1,
+"opp": "Emanuele Miranda",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126170154,
+"side": 2,
+"opp": "Maur\u00edcio Pena",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126171568,
+"side": 1,
+"opp": "T.1000",
+"moves": "44444135555333372211151736664675177726622",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126173195,
+"side": 1,
+"opp": "Vasile B.",
+"moves": "44444333316227212243665565255536611",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+11,
+2,
+-1,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126175457,
+"side": 2,
+"opp": "Reilly",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126175459,
+"side": 2,
+"opp": "matt",
+"moves": "44444432655555367233322666235261117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126176639,
+"side": 1,
+"opp": "Peter Cnudde",
+"moves": "44444222266664353563262333515",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+17,
+2,
+-1,
+-3
+],
+[
+23,
+2,
+-3,
+-7
+]
+],
+"start_v1": 1
+},
+{
+"id": 126180296,
+"side": 2,
+"opp": "Maur\u00edcio Pena",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126184253,
+"side": 1,
+"opp": "Maziyar Abyari",
+"moves": "44444666643233665211223311115232555577777",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126185967,
+"side": 1,
+"opp": "DJ Carl Joseph Lee",
+"moves": "4367636633544444733226622221111117755",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+3,
+2,
+-2,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126188065,
+"side": 2,
+"opp": "Ryosuke",
+"moves": "44444432655555367233322623251117776667711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126189322,
+"side": 2,
+"opp": "KangChen",
+"moves": "44444432655555367233322623666251711777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126189513,
+"side": 2,
+"opp": "T.1000",
+"moves": "44444456233333521655566263651122211177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126190022,
+"side": 2,
+"opp": "matt",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126193899,
+"side": 2,
+"opp": "Sean Klein",
+"moves": "44444432655555367233322623521117777766611",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126197409,
+"side": 2,
+"opp": "[Deleted] 4cdea91c-21bf-49e8-acf4-be9a5c1e4408",
+"moves": "44444432655555367233322623152117777766611",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126200009,
+"side": 1,
+"opp": "[Deleted] 4cdea91c-21bf-49e8-acf4-be9a5c1e4408",
+"moves": "44444333316716737664663155555511122222277",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126203205,
+"side": 2,
+"opp": "Maziyar Abyari",
+"moves": "44444456233333521655566263562221111177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126206793,
+"side": 1,
+"opp": "[Deleted] 4cdea91c-21bf-49e8-acf4-be9a5c1e4408",
+"moves": "44444334332536375766666771111117755",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+7,
+2,
+-1,
+-3
+],
+[
+9,
+2,
+-3,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126207789,
+"side": 1,
+"opp": "matt",
+"moves": "44444132652224515111553522177777733",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+15,
+2,
+-1,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126209996,
+"side": 2,
+"opp": "qq290637843",
+"moves": "44444456233333521655566263156122217117777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126213572,
+"side": 1,
+"opp": "yihui ding123",
+"moves": "444441366666252222432111363337577757555",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+17,
+2,
+-1,
+-2
+]
+],
+"start_v1": 1
+},
+{
+"id": 126214170,
+"side": 2,
+"opp": "Maur\u00edcio Pena",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126214186,
+"side": 1,
+"opp": "matt",
+"moves": "44444756236664373777335366111111755",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+15,
+2,
+-1,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126217563,
+"side": 2,
+"opp": "Vasile B.",
+"moves": "44444432655555367233322623752766617117711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126220952,
+"side": 1,
+"opp": "forres.zhaoc",
+"moves": "44444222245655223333335556776677766111711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126222921,
+"side": 1,
+"opp": "Vasile B.",
+"moves": "444443333634152257122211555135217777766",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+11,
+2,
+-1,
+-2
+]
+],
+"start_v1": 1
+},
+{
+"id": 126223714,
+"side": 2,
+"opp": "forres.zhaoc",
+"moves": "444444655556756736777312222225676111333311",
+"result": "D",
+"my_errors": [],
+"opp_errors": [
+[
+6,
+1,
+1,
+0
+]
+],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126225301,
+"side": 2,
+"opp": "Peter Cnudde",
+"moves": "44444432655555367233322623526661717717711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126228688,
+"side": 1,
+"opp": "LF SUN",
+"moves": "452513232235534344443755777666776662211",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+]
+],
+"start_v1": 1
+},
+{
+"id": 126231859,
+"side": 2,
+"opp": "Staple Dog",
+"moves": "44444432655555367233322623521117777711166",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126235234,
+"side": 1,
+"opp": "liuyuxi90",
+"moves": "436675553754442",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+7,
+2,
+-2,
+-3
+],
+[
+9,
+2,
+-3,
+-4
+],
+[
+11,
+2,
+-4,
+-8
+],
+[
+13,
+2,
+-8,
+-14
+]
+],
+"start_v1": 1
+},
+{
+"id": 126235444,
+"side": 1,
+"opp": "UET_INT3401E6_13",
+"moves": "4444466366465167717737723313312222255",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+7,
+2,
+-1,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126235623,
+"side": 1,
+"opp": "Maur\u00edcio Pena",
+"moves": "4444422225526546766555623631333",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+9,
+2,
+-1,
+-3
+],
+[
+19,
+2,
+-3,
+-4
+],
+[
+21,
+2,
+-4,
+-5
+],
+[
+23,
+2,
+-5,
+-6
+]
+],
+"start_v1": 1
+},
+{
+"id": 126238812,
+"side": 2,
+"opp": "yihui ding123",
+"moves": "44444456233333521655566211226325611177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126241225,
+"side": 2,
+"opp": "MarPez",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126244409,
+"side": 2,
+"opp": "Vasile B.",
+"moves": "44444432655555367233322623752766617117711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126247583,
+"side": 2,
+"opp": "qq290637843",
+"moves": "44444432655555367233322666235216717771711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126250976,
+"side": 2,
+"opp": "Tama Mican",
+"moves": "44444456233333521655566263156122211177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126254170,
+"side": 2,
+"opp": "Maur\u00edcio Pena",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126257749,
+"side": 2,
+"opp": "DJ Carl Joseph Lee",
+"moves": "44444432655555367233322623527766617117711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126259555,
+"side": 2,
+"opp": "T.1000",
+"moves": "44444456233333521655566263651122211177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126263150,
+"side": 2,
+"opp": "Robina Mirbahar",
+"moves": "44444432655555367233322623521117777711166",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126265944,
+"side": 1,
+"opp": "Robina Mirbahar",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126269535,
+"side": 1,
+"opp": "Maur\u00edcio Pena",
+"moves": "444442222452637",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+11,
+2,
+-1,
+-14
+]
+],
+"start_v1": 1
+},
+{
+"id": 126271312,
+"side": 1,
+"opp": "Maur\u00edcio Pena",
+"moves": "4444422225526546766555623631333",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+9,
+2,
+-1,
+-3
+],
+[
+19,
+2,
+-3,
+-4
+],
+[
+21,
+2,
+-4,
+-5
+],
+[
+23,
+2,
+-5,
+-6
+]
+],
+"start_v1": 1
+},
+{
+"id": 126274727,
+"side": 2,
+"opp": "Maziyar Abyari",
+"moves": "44444456233333521655566263562221111177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126278315,
+"side": 2,
+"opp": "Vasile B.",
+"moves": "44444432655555367233322623152117777766611",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126278497,
+"side": 2,
+"opp": "chenweian",
+"moves": "444444233332132152111567666663122777555577",
+"result": "D",
+"my_errors": [],
+"opp_errors": [
+[
+6,
+1,
+1,
+0
+]
+],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126281305,
+"side": 1,
+"opp": "Peter John",
+"moves": "44444225224235552557177717766661113",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+7,
+2,
+-1,
+-3
+],
+[
+13,
+2,
+-3,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126282696,
+"side": 2,
+"opp": "Thomas Le Gall",
+"moves": "444444322222656666535562157511717733117733",
+"result": "W",
+"my_errors": [],
+"opp_errors": [
+[
+8,
+1,
+1,
+0
+],
+[
+14,
+1,
+0,
+-1
+]
+],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126286295,
+"side": 2,
+"opp": "Peter Cnudde",
+"moves": "44444432655555367233322623526661717717711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126286493,
+"side": 1,
+"opp": "Thomas Le Gall",
+"moves": "444444326555553233322273752177111117766",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+21,
+2,
+-1,
+-2
+]
+],
+"start_v1": 1
+},
+{
+"id": 126289884,
+"side": 1,
+"opp": "liuyuxi90",
+"moves": "444443333364535",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+11,
+2,
+-1,
+-14
+]
+],
+"start_v1": 1
+},
+{
+"id": 126289895,
+"side": 1,
+"opp": "Tama Mican",
+"moves": "4444443265555536723336276612111",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+21,
+2,
+-1,
+-6
+]
+],
+"start_v1": 1
+},
+{
+"id": 126291078,
+"side": 1,
+"opp": "yihui ding123",
+"moves": "4444422222655546735551327666673333711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+9,
+2,
+-1,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126292279,
+"side": 1,
+"opp": "Ertu\u011frul \u00d6zer",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126293884,
+"side": 2,
+"opp": "Vitali Hisko",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126297063,
+"side": 2,
+"opp": "Staple Dog",
+"moves": "44444432655555367233322623521117777711166",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126299864,
+"side": 1,
+"opp": "matt",
+"moves": "44444756236664373777335366111111755",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+15,
+2,
+-1,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126302845,
+"side": 2,
+"opp": "Thomas Le Gall",
+"moves": "444444566666233332125673737771712221115555",
+"result": "W",
+"my_errors": [],
+"opp_errors": [
+[
+8,
+1,
+1,
+0
+],
+[
+20,
+1,
+0,
+-1
+]
+],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126303657,
+"side": 2,
+"opp": "Tama Mican",
+"moves": "44444456233333521655566222635261711117777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126305842,
+"side": 2,
+"opp": "Thomas Le Gall",
+"moves": "44444432155555272211133333215217777766",
+"result": "W",
+"my_errors": [],
+"opp_errors": [
+[
+8,
+1,
+1,
+-1
+]
+],
+"my_inacc": [],
+"opp_inacc": [
+[
+14,
+1,
+-1,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126306045,
+"side": 1,
+"opp": "Parandissophia",
+"moves": "43667555326552633223663751221111144",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+7,
+2,
+-2,
+-3
+],
+[
+15,
+2,
+-3,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126308852,
+"side": 1,
+"opp": "Peter Cnudde",
+"moves": "45264451454161114266662122255577733",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+3,
+2,
+-2,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126311648,
+"side": 2,
+"opp": "matt",
+"moves": "44444432655555367233322666235261117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126313854,
+"side": 1,
+"opp": "corentin Malgogne",
+"moves": "4444455552522227724377775113333",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+13,
+2,
+-1,
+-2
+],
+[
+17,
+2,
+-2,
+-3
+],
+[
+19,
+2,
+-3,
+-5
+],
+[
+27,
+2,
+-5,
+-6
+]
+],
+"start_v1": 1
+},
+{
+"id": 126314433,
+"side": 1,
+"opp": "Vitali Hisko",
+"moves": "44444432655555323332267623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126314660,
+"side": 2,
+"opp": "hydroshiba",
+"moves": "44444432655555367233322623521117777711166",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126315852,
+"side": 1,
+"opp": "DJ Carl Joseph Lee",
+"moves": "4521252255344444155662266667777771133",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+3,
+2,
+-2,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126316258,
+"side": 1,
+"opp": "qq290637843",
+"moves": "4224414244363221135567666621113337557",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+5,
+2,
+-2,
+-3
+]
+],
+"start_v1": 1
+},
+{
+"id": 126318658,
+"side": 2,
+"opp": "Vsevolod Gerasimov",
+"moves": "44444432655555367233322677662362517117711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126320062,
+"side": 1,
+"opp": "tebasaki",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126320464,
+"side": 2,
+"opp": "matt",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126321282,
+"side": 2,
+"opp": "recdnd",
+"moves": "44444432655555626663337777775222263311",
+"result": "W",
+"my_errors": [],
+"opp_errors": [
+[
+14,
+1,
+1,
+-1
+]
+],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126322481,
+"side": 2,
+"opp": "Ted Mothwake",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126323487,
+"side": 2,
+"opp": "hydroshiba",
+"moves": "44444432655555367233322623521117777711166",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126323895,
+"side": 1,
+"opp": "Peter Cnudde",
+"moves": "4363756654565565627244313",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+9,
+2,
+-2,
+-3
+],
+[
+11,
+2,
+-3,
+-5
+],
+[
+19,
+2,
+-5,
+-9
+]
+],
+"start_v1": 1
+},
+{
+"id": 126323900,
+"side": 1,
+"opp": "Thomas Le Gall",
+"moves": "452213335337121122327774446717166",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+],
+[
+7,
+2,
+-2,
+-3
+],
+[
+11,
+2,
+-3,
+-4
+],
+[
+21,
+2,
+-4,
+-5
+]
+],
+"start_v1": 1
+},
+{
+"id": 126324297,
+"side": 2,
+"opp": "hydroshiba",
+"moves": "44444432655555367233322623521117777711166",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126326704,
+"side": 1,
+"opp": "Maziyar Abyari",
+"moves": "44444666643233665212223353211111777777555",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126326705,
+"side": 2,
+"opp": "Vitali Hisko",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126329122,
+"side": 2,
+"opp": "Consumer-Off-The-Shell",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126329129,
+"side": 2,
+"opp": "DJ Carl Joseph Lee",
+"moves": "44444432655555367233322623152117777766611",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126329503,
+"side": 2,
+"opp": "[Deleted] 4cdea91c-21bf-49e8-acf4-be9a5c1e4408",
+"moves": "44444432655555367233322623521117777711166",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126330524,
+"side": 2,
+"opp": "Yitzchak Shmalo",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126331723,
+"side": 1,
+"opp": "matt",
+"moves": "44444132652224565666263133311132177777755",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126332133,
+"side": 1,
+"opp": "Tama Mican",
+"moves": "452444133356324412221137555532177717766",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+1,
+2,
+-1,
+-2
+]
+],
+"start_v1": 1
+},
+{
+"id": 126333740,
+"side": 1,
+"opp": "Maziyar Abyari",
+"moves": "44444222245655223676663633335551117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126334552,
+"side": 1,
+"opp": "Consumer-Off-The-Shell",
+"moves": "4444443265555672617",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+13,
+2,
+-1,
+-2
+],
+[
+15,
+2,
+-2,
+-3
+],
+[
+17,
+2,
+-3,
+-12
+]
+],
+"start_v1": 1
+},
+{
+"id": 126335175,
+"side": 1,
+"opp": "Vsevolod Gerasimov",
+"moves": "44444432655232255133376625316615276777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126335376,
+"side": 1,
+"opp": "Emanuele Miranda",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126336159,
+"side": 2,
+"opp": "Vitali Hisko",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126336181,
+"side": 2,
+"opp": "DJ Carl Joseph Lee",
+"moves": "44444432655555367233322623527766617117711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126338395,
+"side": 2,
+"opp": "Jean paul Miranda Diaz",
+"moves": "44444432655555367233322623521117777766611",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126340800,
+"side": 1,
+"opp": "matt",
+"moves": "44444132652224515111553522177777733",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+15,
+2,
+-1,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126341816,
+"side": 1,
+"opp": "matt",
+"moves": "44444756236664373777335366171111155",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+15,
+2,
+-1,
+-4
+]
+],
+"start_v1": 1
+},
+{
+"id": 126343832,
+"side": 2,
+"opp": "yihui ding123",
+"moves": "44444456233333521655566211226325611177777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126343841,
+"side": 1,
+"opp": "Xie Xin",
+"moves": "44444432655555323332267623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126344231,
+"side": 2,
+"opp": "Muhammad Rayan Tahir",
+"moves": "44444432655555367233322623521117777711166",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126344245,
+"side": 1,
+"opp": "yihui ding123",
+"moves": "444447533335575255312247732226666667711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [
+[
+13,
+2,
+-1,
+-2
+]
+],
+"start_v1": 1
+},
+{
+"id": 126344444,
+"side": 2,
+"opp": "MarPez",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126346664,
+"side": 2,
+"opp": "UET_INT3401E1_1",
+"moves": "44444456233333521655566263756122211117777",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126347084,
+"side": 2,
+"opp": "Consumer-Off-The-Shell",
+"moves": "44444432655555367233322623526661117777711",
+"result": "L",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+},
+{
+"id": 126348491,
+"side": 1,
+"opp": "Oriachel",
+"moves": "44444432655555367233322623526661117777711",
+"result": "W",
+"my_errors": [],
+"opp_errors": [],
+"my_inacc": [],
+"opp_inacc": [],
+"start_v1": 1
+}
+]

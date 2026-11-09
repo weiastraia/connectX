@@ -1,0 +1,2 @@
+stage vs eps:0.15: W/D/L=[325, 25, 50] as P1=[200, 0, 0] as P2=[125, 25, 50] avg_len=34.2 moves=6917 mean=0.04ms max=7.8ms
+old_agent vs eps:0.15: W/D/L=[324, 26, 50] as P1=[200, 0, 0] as P2=[124, 26, 50] avg_len=34.2 moves=6917 mean=0.02ms max=2.9ms

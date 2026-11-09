@@ -1,0 +1,1 @@
+stage vs build/old_agent/main.py: W/D/L=[100, 0, 100] as P1=[100, 0, 0] as P2=[0, 0, 100] avg_len=41.0 moves=4100 mean=0.02ms max=2.4ms

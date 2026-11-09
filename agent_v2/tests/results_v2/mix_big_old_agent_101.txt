@@ -1,0 +1,1 @@
+old_agent vs mix:0.3:10: W/D/L=[919, 36, 45] as P1=[500, 0, 0] as P2=[419, 36, 45] avg_len=36.6 moves=18526 mean=0.03ms max=4.2ms
