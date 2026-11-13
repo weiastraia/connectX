@@ -1,0 +1,6 @@
+tests/Test_L3_R1: 1000 positions, 0 mismatches, mean 0.00000s max 0.0001s
+tests/Test_L2_R1: 1000 positions, 0 mismatches, mean 0.00003s max 0.0008s
+tests/Test_L2_R2: 1000 positions, 0 mismatches, mean 0.00338s max 0.1263s
+tests/Test_L1_R1: 1000 positions, 0 mismatches, mean 0.00021s max 0.0082s
+tests/Test_L1_R2: 1000 positions, 0 mismatches, mean 0.14006s max 3.2043s
+tests/L1_R3_head20: 20 positions, 0 mismatches, mean 3.23837s max 9.6721s

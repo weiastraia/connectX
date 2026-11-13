@@ -1,0 +1,750 @@
+{
+ "games_total": 168,
+ "games_selfplay": 1,
+ "games_real": 167,
+ "p1_games": 76,
+ "p1_wdl": [
+  76,
+  0,
+  0
+ ],
+ "p2_games": 91,
+ "p2_wdl": [
+  9,
+  4,
+  78
+ ],
+ "status_not_done": 0,
+ "my_min_overage": 60,
+ "opponents_distinct": 52,
+ "p1_win_len_min": 15,
+ "p1_win_len_max": 41,
+ "my_wdl_errors": 0,
+ "my_score_inacc": 0,
+ "p2_losses": 78,
+ "p2_loss_lengths": [
+  41
+ ],
+ "p2_loss_opp_errors": 0,
+ "p2_loss_opp_inacc": 0,
+ "p2_loss_opp_moves": 1638,
+ "p2_loss_opponents": 32,
+ "p2_nonloss": 13,
+ "p2_nonloss_with_opp_error": 13,
+ "p2_nonloss_444444": 10,
+ "p2_nonloss_opponents": 9,
+ "p2_first_error_moves": [
+  1,
+  5,
+  5,
+  7,
+  7,
+  7,
+  9,
+  9,
+  9,
+  9,
+  9,
+  15,
+  15
+ ],
+ "p2_perfect_share_pct": 85.7,
+ "p2_draws": 4,
+ "p2_wins": 9,
+ "positions_evaluated": 6429,
+ "top_opponents": [
+  {
+   "opp": "matt",
+   "games": 12,
+   "p1": [
+    6,
+    0,
+    0
+   ],
+   "p2": [
+    0,
+    0,
+    6
+   ],
+   "same": 72,
+   "rep": 77
+  },
+  {
+   "opp": "Maziyar Abyari",
+   "games": 11,
+   "p1": [
+    5,
+    0,
+    0
+   ],
+   "p2": [
+    0,
+    0,
+    6
+   ],
+   "same": 37,
+   "rep": 41
+  },
+  {
+   "opp": "Vasile B.",
+   "games": 9,
+   "p1": [
+    4,
+    0,
+    0
+   ],
+   "p2": [
+    0,
+    0,
+    5
+   ],
+   "same": 24,
+   "rep": 27
+  },
+  {
+   "opp": "Maurício Pena",
+   "games": 9,
+   "p1": [
+    3,
+    0,
+    0
+   ],
+   "p2": [
+    0,
+    0,
+    6
+   ],
+   "same": 35,
+   "rep": 36
+  },
+  {
+   "opp": "T.1000",
+   "games": 9,
+   "p1": [
+    2,
+    0,
+    0
+   ],
+   "p2": [
+    0,
+    0,
+    7
+   ],
+   "same": 22,
+   "rep": 24
+  },
+  {
+   "opp": "Tama Mican",
+   "games": 8,
+   "p1": [
+    4,
+    0,
+    0
+   ],
+   "p2": [
+    0,
+    0,
+    4
+   ],
+   "same": 42,
+   "rep": 44
+  },
+  {
+   "opp": "yihui ding123",
+   "games": 7,
+   "p1": [
+    4,
+    0,
+    0
+   ],
+   "p2": [
+    0,
+    0,
+    3
+   ],
+   "same": 39,
+   "rep": 40
+  },
+  {
+   "opp": "Peter Cnudde",
+   "games": 7,
+   "p1": [
+    5,
+    0,
+    0
+   ],
+   "p2": [
+    0,
+    0,
+    2
+   ],
+   "same": 36,
+   "rep": 38
+  }
+ ],
+ "det_same_total": 581,
+ "det_rep_total": 619,
+ "opponents_3plus": 22,
+ "book_v7_entries": 313040,
+ "book_v7_mb": 2.5,
+ "book_v7_p1_plies": [
+  0,
+  18
+ ],
+ "book_v7_p2_plies": [
+  1,
+  17
+ ],
+ "book_v7_p1_entries": 111312,
+ "book_v7_p2_entries": 201728,
+ "book_v8_entries": 312349,
+ "book_changed_moves": 10,
+ "book_only_v8": 565,
+ "book_only_v7": 1256,
+ "traps_entries": 7,
+ "submission_v7_kb": 915,
+ "submission_v8_kb": 916,
+ "submission_v7_files": [
+  "cx_book.bin",
+  "cx_solver_v1.so",
+  "cx_solver_v2.so",
+  "main.py"
+ ],
+ "submission_v8_files": [
+  "cx_book.bin",
+  "cx_solver_v1.so",
+  "cx_solver_v2.so",
+  "cx_traps.bin",
+  "main.py"
+ ],
+ "new_vs_old_all": [
+  100,
+  0,
+  100
+ ],
+ "new_vs_old_p1": [
+  100,
+  0,
+  0
+ ],
+ "new_vs_old_p2": [
+  0,
+  0,
+  100
+ ],
+ "new_vs_old_avg_len": 41.0,
+ "mix_big_v8_p2": [
+  828,
+  73,
+  99
+ ],
+ "mix_big_v7_p2": [
+  828,
+  72,
+  100
+ ],
+ "mix_big_v8_p1": [
+  1000,
+  0,
+  0
+ ],
+ "mix_big_v7_p1": [
+  1000,
+  0,
+  0
+ ],
+ "mix_big_p2_games": 1000,
+ "eps_v8_p2": [
+  125,
+  25,
+  50
+ ],
+ "eps_v7_p2": [
+  124,
+  26,
+  50
+ ],
+ "mix400_v8_p2": [
+  161,
+  13,
+  26
+ ],
+ "mix400_v7_p2": [
+  167,
+  11,
+  22
+ ],
+ "v8_arena_max_ms": 42.5,
+ "kp_mix_positions": 8,
+ "kp_mix_games_each": 200,
+ "kp_mix_v7": [
+  7,
+  793,
+  800
+ ],
+ "kp_mix_v8": [
+  64,
+  908,
+  628
+ ],
+ "kp_mix_rows": [
+  {
+   "res": "D",
+   "ply": 22,
+   "prefix": "444444322222655556762",
+   "old": [
+    7,
+    193,
+    0
+   ],
+   "new": [
+    6,
+    194,
+    0
+   ]
+  },
+  {
+   "res": "D",
+   "ply": 26,
+   "prefix": "4444443222226555567623333",
+   "old": [
+    0,
+    200,
+    0
+   ],
+   "new": [
+    58,
+    142,
+    0
+   ]
+  },
+  {
+   "res": "L",
+   "ply": 36,
+   "prefix": "44444456233333521655566263756122217",
+   "old": [
+    0,
+    0,
+    200
+   ],
+   "new": [
+    0,
+    0,
+    200
+   ]
+  },
+  {
+   "res": "L",
+   "ply": 38,
+   "prefix": "4444445623333352165556626375612221711",
+   "old": [
+    0,
+    0,
+    200
+   ],
+   "new": [
+    0,
+    0,
+    200
+   ]
+  },
+  {
+   "res": "L",
+   "ply": 26,
+   "prefix": "4444445623333352165556621",
+   "old": [
+    0,
+    0,
+    200
+   ],
+   "new": [
+    0,
+    88,
+    112
+   ]
+  },
+  {
+   "res": "D",
+   "ply": 30,
+   "prefix": "44444465555675673677731222222",
+   "old": [
+    0,
+    200,
+    0
+   ],
+   "new": [
+    0,
+    200,
+    0
+   ]
+  },
+  {
+   "res": "D",
+   "ply": 30,
+   "prefix": "44444423333213215211156766666",
+   "old": [
+    0,
+    200,
+    0
+   ],
+   "new": [
+    0,
+    200,
+    0
+   ]
+  },
+  {
+   "res": "L",
+   "ply": 26,
+   "prefix": "4444443265555536723332267",
+   "old": [
+    0,
+    0,
+    200
+   ],
+   "new": [
+    0,
+    84,
+    116
+   ]
+  }
+ ],
+ "kp_mix_better": 3,
+ "kp_mix_same": 4,
+ "kp_mix_worse": 1,
+ "kp_eps_v7": [
+  67,
+  831,
+  702
+ ],
+ "kp_eps_v8": [
+  106,
+  907,
+  587
+ ],
+ "kp_eps_rows": [
+  {
+   "res": "D",
+   "ply": 22,
+   "prefix": "444444322222655556762",
+   "old": [
+    10,
+    190,
+    0
+   ],
+   "new": [
+    6,
+    194,
+    0
+   ]
+  },
+  {
+   "res": "D",
+   "ply": 26,
+   "prefix": "4444443222226555567623333",
+   "old": [
+    10,
+    190,
+    0
+   ],
+   "new": [
+    22,
+    178,
+    0
+   ]
+  },
+  {
+   "res": "L",
+   "ply": 36,
+   "prefix": "44444456233333521655566263756122217",
+   "old": [
+    0,
+    0,
+    200
+   ],
+   "new": [
+    0,
+    26,
+    174
+   ]
+  },
+  {
+   "res": "L",
+   "ply": 38,
+   "prefix": "4444445623333352165556626375612221711",
+   "old": [
+    0,
+    0,
+    200
+   ],
+   "new": [
+    0,
+    16,
+    184
+   ]
+  },
+  {
+   "res": "L",
+   "ply": 26,
+   "prefix": "4444445623333352165556621",
+   "old": [
+    17,
+    21,
+    162
+   ],
+   "new": [
+    3,
+    81,
+    116
+   ]
+  },
+  {
+   "res": "D",
+   "ply": 30,
+   "prefix": "44444465555675673677731222222",
+   "old": [
+    6,
+    194,
+    0
+   ],
+   "new": [
+    20,
+    180,
+    0
+   ]
+  },
+  {
+   "res": "D",
+   "ply": 30,
+   "prefix": "44444423333213215211156766666",
+   "old": [
+    9,
+    191,
+    0
+   ],
+   "new": [
+    16,
+    184,
+    0
+   ]
+  },
+  {
+   "res": "L",
+   "ply": 26,
+   "prefix": "4444443265555536723332267",
+   "old": [
+    15,
+    45,
+    140
+   ],
+   "new": [
+    39,
+    48,
+    113
+   ]
+  }
+ ],
+ "kenv_v7": [
+  100,
+  0,
+  0
+ ],
+ "kenv_v7_max_ms": 12.6,
+ "kenv_v7n": [
+  100,
+  0,
+  0
+ ],
+ "kenv_v7n_max_ms": 11.1,
+ "kenv_v8": [
+  100,
+  0,
+  0
+ ],
+ "kenv_v8_max_ms": 9.5,
+ "kenv_v8n": [
+  100,
+  0,
+  0
+ ],
+ "kenv_v8n_max_ms": 9.5,
+ "verify_sets": [
+  {
+   "set": "Test_L3_R1",
+   "n": 1000,
+   "bad": 0,
+   "mean_s": 0.0,
+   "max_s": 0.0001
+  },
+  {
+   "set": "Test_L2_R1",
+   "n": 1000,
+   "bad": 0,
+   "mean_s": 3e-05,
+   "max_s": 0.0008
+  },
+  {
+   "set": "Test_L2_R2",
+   "n": 1000,
+   "bad": 0,
+   "mean_s": 0.00338,
+   "max_s": 0.1263
+  },
+  {
+   "set": "Test_L1_R1",
+   "n": 1000,
+   "bad": 0,
+   "mean_s": 0.00021,
+   "max_s": 0.0082
+  },
+  {
+   "set": "Test_L1_R2",
+   "n": 1000,
+   "bad": 0,
+   "mean_s": 0.14006,
+   "max_s": 3.2043
+  },
+  {
+   "set": "L1_R3_head20",
+   "n": 20,
+   "bad": 0,
+   "mean_s": 3.23837,
+   "max_s": 9.6721
+  }
+ ],
+ "verify_positions": 5020,
+ "verify_mismatches": 0,
+ "offbook_v7": {
+  "min_ply": 17,
+  "n": 1678,
+  "mean_ms": 0.42,
+  "max_ms": 26.7,
+  "timeouts": 0
+ },
+ "offbook_v8": {
+  "min_ply": 17,
+  "n": 1678,
+  "mean_ms": 0.57,
+  "max_ms": 98.3,
+  "timeouts": 0
+ },
+ "replay_v7_mismatch": 0,
+ "replay_D_different": 5,
+ "replay_D_same": 79,
+ "replay_L_different": 7,
+ "replay_L_same": 1553,
+ "replay_W_same": 161,
+ "replay_diff_positions": 12,
+ "replay_diff_games": 10,
+ "replay_diff_ply_range": [
+  22,
+  38
+ ],
+ "reply_rows": [
+  {
+   "res": "D",
+   "opp": "Emanuele Miranda",
+   "ply": 22,
+   "old_col": 3,
+   "old_score": 0,
+   "old_good": 5,
+   "old_pl": 5,
+   "new_col": 5,
+   "new_score": 0,
+   "new_good": 4,
+   "new_pl": 5
+  },
+  {
+   "res": "D",
+   "opp": "Emanuele Miranda",
+   "ply": 26,
+   "old_col": 6,
+   "old_score": 0,
+   "old_good": 1,
+   "old_pl": 1,
+   "new_col": 5,
+   "new_score": 0,
+   "new_good": 1,
+   "new_pl": 5
+  },
+  {
+   "res": "L",
+   "opp": "Maziyar Abyari",
+   "ply": 36,
+   "old_col": 1,
+   "old_score": -1,
+   "old_good": 1,
+   "old_pl": 1,
+   "new_col": 7,
+   "new_score": -1,
+   "new_good": 1,
+   "new_pl": 2
+  },
+  {
+   "res": "L",
+   "opp": "Maziyar Abyari",
+   "ply": 38,
+   "old_col": 1,
+   "old_score": -1,
+   "old_good": 1,
+   "old_pl": 1,
+   "new_col": 7,
+   "new_score": -1,
+   "new_good": 1,
+   "new_pl": 2
+  },
+  {
+   "res": "L",
+   "opp": "yihui ding123",
+   "ply": 26,
+   "old_col": 1,
+   "old_score": -1,
+   "old_good": 1,
+   "old_pl": 1,
+   "new_col": 6,
+   "new_score": -1,
+   "new_good": 1,
+   "new_pl": 6
+  },
+  {
+   "res": "D",
+   "opp": "forres.zhaoc",
+   "ply": 30,
+   "old_col": 5,
+   "old_score": 0,
+   "old_good": 3,
+   "old_pl": 4,
+   "new_col": 7,
+   "new_score": 0,
+   "new_good": 2,
+   "new_pl": 4
+  },
+  {
+   "res": "D",
+   "opp": "chenweian",
+   "ply": 30,
+   "old_col": 3,
+   "old_score": 0,
+   "old_good": 3,
+   "old_pl": 4,
+   "new_col": 1,
+   "new_score": 0,
+   "new_good": 2,
+   "new_pl": 4
+  },
+  {
+   "res": "L",
+   "opp": "Vsevolod Gerasim",
+   "ply": 26,
+   "old_col": 7,
+   "old_score": -1,
+   "old_good": 1,
+   "old_pl": 1,
+   "new_col": 2,
+   "new_score": -1,
+   "new_good": 1,
+   "new_pl": 6
+  }
+ ],
+ "reply_score_equal": true
+}

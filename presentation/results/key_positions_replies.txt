@@ -1,0 +1,8 @@
+D Emanuele Miranda ply 22: old col 3 score 0 good/plausible 5/5  | new col 5 score 0 good/plausible 4/5
+D Emanuele Miranda ply 26: old col 6 score 0 good/plausible 1/1  | new col 5 score 0 good/plausible 1/5
+L Maziyar Abyari   ply 36: old col 1 score -1 good/plausible 1/1  | new col 7 score -1 good/plausible 1/2
+L Maziyar Abyari   ply 38: old col 1 score -1 good/plausible 1/1  | new col 7 score -1 good/plausible 1/2
+L yihui ding123    ply 26: old col 1 score -1 good/plausible 1/1  | new col 6 score -1 good/plausible 1/6
+D forres.zhaoc     ply 30: old col 5 score 0 good/plausible 3/4  | new col 7 score 0 good/plausible 2/4
+D chenweian        ply 30: old col 3 score 0 good/plausible 3/4  | new col 1 score 0 good/plausible 2/4
+L Vsevolod Gerasim ply 26: old col 7 score -1 good/plausible 1/1  | new col 2 score -1 good/plausible 1/6
